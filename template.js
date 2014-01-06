@@ -1,0 +1,1 @@
+module.exports = '<h3>GO</h3>\n<p>Awesome bracket</p>';

@@ -1,0 +1,23 @@
+{
+  "name": "bracket",
+  "repo": "thanhdc/bracket",
+  "description": "A tournament bracket generator",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*",
+    "component/jquery": "*"
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "style.css"
+  ]
+}
