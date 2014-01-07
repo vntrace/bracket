@@ -5,10 +5,10 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "component/emitter": "*",
-    "component/jquery": "*"
+    "component/emitter": "*"
   },
   "development": {
+    "component/jquery": "*",
     "component/assert": "*"
   },
   "license": "MIT",

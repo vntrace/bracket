@@ -42,3 +42,13 @@ var drawAGame = function(p1, p2, pos) {
 var drawABracket = function(type) {
 
 }
+
+/**
+ * Draw a round with round name & games data
+ * @param  {String} name  [description]
+ * @param  {Array} games [description]
+ * @return {Void}       [description]
+ */
+var drawARound = function(name, games) {
+	
+}
