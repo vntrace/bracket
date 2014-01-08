@@ -8,8 +8,9 @@
     "component/emitter": "*"
   },
   "development": {
+    "component/assert": "*",
     "component/jquery": "*",
-    "component/assert": "*"
+    "jashkenas/underscore": "*"
   },
   "license": "MIT",
   "main": "index.js",
