@@ -1,1 +1,1 @@
-module.exports = '<table>\n	<tbody>\n		<tr>\n			\n		</tr>\n	</tbody>\n</table>';
+module.exports = '<table>\n	<tbody>\n		<tr class="bracket-holder">\n			\n		</tr>\n	</tbody>\n</table>';

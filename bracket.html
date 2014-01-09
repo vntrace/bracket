@@ -1,0 +1,33 @@
+<table cellpadding="0" cellspacing="0" class="bracket_game">
+    <tbody>
+        <tr>
+            <td>
+                [[ if(p1){ ]]
+                <div class="bracket_game_p1">
+                    <b>{{p1.id}}</b>
+                    <span>{{p1.name}}</span>
+                </div>
+                [[ } ]]
+                [[ if(p2){ ]]
+                <div class="bracket_game_p2">
+                    <b>{{p2.id}}</b>
+                    <span>{{p2.name}}</span>
+                </div>
+                [[ } ]]
+                
+                [[if(!p1 && !p2){ ]]
+                    <div class="full_width_spacer"></div>
+                [[ } ]]
+            </td>
+            <td>
+                <div class="bracket_lines">
+                    <table>
+                        <tr>
+                            <td class="border border_top"></td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
